@@ -1,0 +1,280 @@
+@import url('https://fonts.cdnfonts.com/css/bebas-neue');
+@import url('https://fonts.cdnfonts.com/css/aileron');
+
+
+header{
+	
+	background-color: #FF0004;
+}
+
+.titulo{
+	font-family: "Bebas Neue" ;
+    color: #FF0004;
+    text-align: center;
+    font-weight: bolder;
+}
+.titulo2{
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: bolder;
+	font-family: "Aileron";
+}
+.fondo{
+    background-color: #000000;
+}
+.texto{
+    color: #FFFFFF;
+}
+
+#image{
+	background: #000000;
+	padding-top: 30px;
+	padding-bottom: 90px;
+}
+
+#image h1{
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+#image p{
+	color: #FFFFFF;
+}
+
+audio{
+	width: 1100px;
+}
+
+#image h2{
+	color: white;
+	padding-top: 20px;
+}
+
+#buttons{
+	padding-top: 30px;
+}
+
+footer{
+	background-color: #FF0004;
+	padding-bottom: 20px;
+	padding-top: 60px;
+}
+
+footer p{
+	color: #FFFFFF;
+	text-align: center;
+}
+
+footer img{
+	width: 200px;
+}
+
+
+
+.owl-carousel .owl-dots {
+    text-align: center;
+}
+.owl-carousel .owl-dot {
+    height: 11px;
+    width: 11px;
+    border: 2px solid #a49fba !important;
+    border-radius: 50%;
+    margin: 35px 6px;
+}
+.owl-carousel .owl-dot.active {
+    background-color: #fb397d;
+    border: 0 !important;
+}
+
+
+#hero-Lideres-de-la-industria h1{
+	text-align: center;
+	font-family: "Bebas Neue";
+	padding: 20px;
+	
+	
+}
+
+#los-grandes h3{
+	color:#FFFFFF;
+	margin:20px;
+}
+
+#hero-Lideres-de-la-industria{
+	background-color: #030303;
+	
+	
+}
+
+
+#los-grandes {
+		background-color: #030303;
+		padding:100px;
+	
+	
+}
+
+#largometraje{
+	padding-bottom: 80px;
+	padding-top: 40px;
+}
+
+#largometraje video{
+	width: 100%;
+	margin-top: 200px;
+}
+
+#largometraje h1{
+	color: white;
+	text-align: center;
+}
+
+#largometraje img{
+	margin-bottom: -50%;
+}
+
+#largometraje p{
+	color: white;
+	margin-top: 20px;
+}
+
+footer h3{
+	color:#000000;
+	
+}
+
+#descripciondepelicula{
+	
+	padding-bottom: 20px;
+}
+
+#descripciondepelicula h3,
+#descripciondepelicula p{
+	color:#FFFFFF;
+	
+	
+}
+
+#descripciondepelicula h2{
+	padding-bottom: 40px;
+	padding-top: 40px;
+	
+}
+
+#replicas{
+	padding-bottom: 80px;
+	
+	
+}
+
+#hero-cortometraje {
+	color:#fff;
+	background-color: #030303;
+	padding-top:80px ;
+	padding-bottom:80px ;
+	font-family: "Aileron";
+	
+}
+
+#hero-cortometraje p{
+font-family: "Aileron";
+color:#fff;
+	
+}
+
+#hero-Novedades {
+    text-align: center;
+	background-color: #000000;
+    color:#fff;
+}
+
+
+.movie {
+  background-color: #030303;
+	color:#fff;
+  padding: 20px;
+  border-radius: 10px;
+  padding-bottom: 20px;
+}
+
+.movie img {
+  max-width: 100%;
+  height: auto;
+  padding-bottom: 10px;
+}
+
+.desdelos {
+	  color: #FFFFFF;
+    text-align: center;
+    font-weight: bolder;
+	font-family: "Bebas Neue" ;
+	background-color: #000000;
+	padding-top:30px;
+	padding-bottom:30px;
+}
+
+.historiadelcine {
+	background-color: #000000;
+	padding-bottom: 60px;
+	padding-top: 30px;
+}
+
+.historia_cine {
+		  color:#FF0004;
+    text-align: center;
+    font-weight: bolder;
+	font-family: "Bebas Neue" ;
+	font-size: 100px;
+	
+}
+
+#hero-documental{
+	background-color: #000000;
+}
+
+#hero-documental{
+	padding-bottom: 100px;
+	padding-top: 80px;
+}
+
+#hero-documental h1{
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+#hero-documental p{
+	color: white;
+	font-size: 17px;
+}
+
+#hero-documental h2{
+	margin-bottom: 20px;
+}
+
+#hero-documental h3{
+	text-align: center;
+	color: white;
+}
+
+#hero-documental h4{
+	padding-top: 120px;
+	font-size: 40px;
+}
+
+#hero-Series{
+	padding-bottom: 60px;
+	background-color: #000000;
+	color: #FFFFFF;
+	
+}
+
+
+#hero-Series h2 {
+	text-align: center;
+	color:#FF0004;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-size: 80px;
+	
+}
+
